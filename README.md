@@ -13,6 +13,9 @@ https://mega.nz/folder/TwEjmLaa#q68FW-63vL7tTYLj83TLEA = BGP
 
 https://learn.networkjourney.com/  ===Network journey automation  (ojotemitope44@gmail.com  :  Cisco@12345
 
+DEVCOR:
+https://www.pluralsight.com/paths/cisco-devcor-300-901-for-cisco-certified-devnet-professional
+
 
 CCNP DUMPS
 User: zeeshan
